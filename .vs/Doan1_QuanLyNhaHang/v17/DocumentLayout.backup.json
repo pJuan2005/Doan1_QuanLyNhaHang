@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "D:\\\u0110\u1ED3 \u00C1n 1\\GitHub\\Doan1_QuanLyNhaHang\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{62B63F11-6FC8-4E09-B1F6-E91947BBDBCC}|DTO\\DTO.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\github\\doan1_quanlynhahang\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B63F11-6FC8-4E09-B1F6-E91947BBDBCC}|DTO\\DTO.csproj|solutionrelative:dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B63F11-6FC8-4E09-B1F6-E91947BBDBCC}|DTO\\DTO.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\github\\doan1_quanlynhahang\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B63F11-6FC8-4E09-B1F6-E91947BBDBCC}|DTO\\DTO.csproj|solutionrelative:dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B63F11-6FC8-4E09-B1F6-E91947BBDBCC}|DTO\\DTO.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\github\\doan1_quanlynhahang\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B63F11-6FC8-4E09-B1F6-E91947BBDBCC}|DTO\\DTO.csproj|solutionrelative:dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B63F11-6FC8-4E09-B1F6-E91947BBDBCC}|DTO\\DTO.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\github\\doan1_quanlynhahang\\dto\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B63F11-6FC8-4E09-B1F6-E91947BBDBCC}|DTO\\DTO.csproj|solutionrelative:dto\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B63F11-6FC8-4E09-B1F6-E91947BBDBCC}|DTO\\DTO.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\github\\doan1_quanlynhahang\\dto\\posdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B63F11-6FC8-4E09-B1F6-E91947BBDBCC}|DTO\\DTO.csproj|solutionrelative:dto\\posdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B63F11-6FC8-4E09-B1F6-E91947BBDBCC}|DTO\\DTO.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\github\\doan1_quanlynhahang\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B63F11-6FC8-4E09-B1F6-E91947BBDBCC}|DTO\\DTO.csproj|solutionrelative:dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B63F11-6FC8-4E09-B1F6-E91947BBDBCC}|DTO\\DTO.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\github\\doan1_quanlynhahang\\dto\\reportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B63F11-6FC8-4E09-B1F6-E91947BBDBCC}|DTO\\DTO.csproj|solutionrelative:dto\\reportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{73476A81-943E-4A2E-96A2-3AF8C926F604}|GUI\\GUI.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\github\\doan1_quanlynhahang\\gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{73476A81-943E-4A2E-96A2-3AF8C926F604}|GUI\\GUI.csproj|solutionrelative:gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -19,6 +47,97 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n 1\\GitHub\\Doan1_QuanLyNhaHang\\DTO\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\CategoryDTO.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n 1\\GitHub\\Doan1_QuanLyNhaHang\\DTO\\CategoryDTO.cs",
+              "RelativeToolTip": "DTO\\CategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T09:10:36.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n 1\\GitHub\\Doan1_QuanLyNhaHang\\DTO\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\CustomerDTO.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n 1\\GitHub\\Doan1_QuanLyNhaHang\\DTO\\CustomerDTO.cs",
+              "RelativeToolTip": "DTO\\CustomerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T09:10:09.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDetailDTO.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n 1\\GitHub\\Doan1_QuanLyNhaHang\\DTO\\OrderDetailDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\OrderDetailDTO.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n 1\\GitHub\\Doan1_QuanLyNhaHang\\DTO\\OrderDetailDTO.cs",
+              "RelativeToolTip": "DTO\\OrderDetailDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T09:09:28.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n 1\\GitHub\\Doan1_QuanLyNhaHang\\DTO\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\OrderDTO.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n 1\\GitHub\\Doan1_QuanLyNhaHang\\DTO\\OrderDTO.cs",
+              "RelativeToolTip": "DTO\\OrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T09:08:49.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PosDTO.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n 1\\GitHub\\Doan1_QuanLyNhaHang\\DTO\\PosDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\PosDTO.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n 1\\GitHub\\Doan1_QuanLyNhaHang\\DTO\\PosDTO.cs",
+              "RelativeToolTip": "DTO\\PosDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T09:08:19.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n 1\\GitHub\\Doan1_QuanLyNhaHang\\DTO\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ProductDTO.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n 1\\GitHub\\Doan1_QuanLyNhaHang\\DTO\\ProductDTO.cs",
+              "RelativeToolTip": "DTO\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T09:07:57.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReportDTO.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n 1\\GitHub\\Doan1_QuanLyNhaHang\\DTO\\ReportDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ReportDTO.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n 1\\GitHub\\Doan1_QuanLyNhaHang\\DTO\\ReportDTO.cs",
+              "RelativeToolTip": "DTO\\ReportDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T09:07:22.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "frmLogin.cs [Design]",
               "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n 1\\GitHub\\Doan1_QuanLyNhaHang\\GUI\\frmLogin.cs",
               "RelativeDocumentMoniker": "GUI\\frmLogin.cs",
